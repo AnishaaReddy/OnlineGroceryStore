@@ -1,5 +1,5 @@
 # OnlineGroceryStore
-This is a PHP Grocery store project built using HTML CSS and Javascript to help users search, add items to cart and checkout.
+This is a PHP Grocery store project built using HTML CSS and Javascript to help users search, add items to cart and checkout. The database used is MySQL. 
 
 
 Its a dynamic website for an online grocery store. The website provides a simulated online shopping experience for potential customers.
